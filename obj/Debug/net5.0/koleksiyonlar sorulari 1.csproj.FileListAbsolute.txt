@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\bin\Debug\net5.0\koleksiyonlar sorulari 1.exe
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\bin\Debug\net5.0\koleksiyonlar sorulari 1.deps.json
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\bin\Debug\net5.0\koleksiyonlar sorulari 1.runtimeconfig.json
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\bin\Debug\net5.0\koleksiyonlar sorulari 1.runtimeconfig.dev.json
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\bin\Debug\net5.0\koleksiyonlar sorulari 1.dll
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\bin\Debug\net5.0\ref\koleksiyonlar sorulari 1.dll
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\bin\Debug\net5.0\koleksiyonlar sorulari 1.pdb
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.AssemblyInfo.cs
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.dll
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\ref\koleksiyonlar sorulari 1.dll
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.pdb
+D:\yazılım\pratikler\koleksiyonlar sorulari 1\obj\Debug\net5.0\koleksiyonlar sorulari 1.genruntimeconfig.cache
